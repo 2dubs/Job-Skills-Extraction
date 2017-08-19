@@ -1,0 +1,150 @@
+Topic #1: 
+analysis,financial analysis,account analysis,data analysis,reporting,forecasting,forecasts,modeling,financial data,cost analysis,presentations,cash flow,mba,metrics,trend analysis
+
+Topic #2: 
+accounts payable,vouchers,backup,data entry,purchasing,check runs,monitoring,purchase orders,concur,productivity,kronos,accounts receivable,quick learner,payment processing,journal entry
+
+Topic #3: 
+general ledger,trial balance,account analysis,reconciliations,audits,balance sheets,microsoft office,banking,dynamics,less,cash management,pc,analysis,ms excel,https
+
+Topic #4: 
+audit,internal audit,audit schedules,internal control,cashier,auditing,audits,controls,certified public accountant,hospitality,professional development,teamwork,fraud,gaap,technology
+
+Topic #5: 
+payroll,adp,taxes,backup,human resources,payroll taxes,adp payroll,kronos,sage,paychex,reporting,budgeting,petty cash,productivity,payroll administration
+
+Topic #6: 
+communication,communication skills,written communication,microsoft office,solid,interpersonal,effective communication,pc,work ethic,certified public accountant,business administration,positive attitude,san,banking,multitasking
+
+Topic #7: 
+reporting,financial reporting,sec,controls,process improvement,research design,change management,gaap,management reporting,strategy,tax reporting,treasury,implementation,hyperion,equity
+
+Topic #8: 
+inventory,cost accounting,inventory control,warehouse,inventory management,cogs,purchasing,rf,reporting,human resources,valuation,advertising,purchase orders,receiving,commitment
+
+Topic #9: 
+quickbooks,cash flow,desktop,microsoft word,ceo,solid,cfo,microsoft office,health insurance,consulting,peachtree,personal tax,taxes,fit,positive attitude
+
+Topic #10: 
+finance,business administration,economics,reporting,corporate finance,technology,financial accounting,supervision,cfo,mba,microsoft office,treasury,banking,financial services,presentations
+
+Topic #11: 
+accounts receivable,collections,cash receipts,supervision,accounts payable,coop,aging reports,microsoft office,reinsurance,erp,lockbox,dynamics,bank deposits,sage,microsoft dynamics
+
+Topic #12: 
+sales,marketing,retail,revenue recognition,pricing,sales operations,taxes,forecasts,contracts,tax reporting,cash receipts,credits,exceed,fit,cold calling
+
+Topic #13: 
+reconciliations,bank reconciliations,account analysis,cfo,ms excel,journal entry,analysis,gaap,cash receipts,reporting,focus,cash flow,solid,http,san
+
+Topic #14: 
+software,accounting software,sage,financial software,microsoft office,database,technology,deltek,cash receipts,peachtree,ms excel,architecture,life insurance,software development,supervision
+
+Topic #15: 
+invoices,purchase orders,vouchers,cash receipts,contracts,check runs,receiving,petty cash,purchasing,backup,data entry,deltek,database,positive attitude,po
+
+Topic #16: 
+computer,sit,office equipment,supervision,pass,dexterity,mathematical,backup,financial data,software,data entry,database,reach,accounting principles,statistics
+
+Topic #17: 
+billing,collections,contracts,revenue recognition,front office,claims,medical billing,credits,technology,backup,aia,cash receipts,consulting,public health,project accounting
+
+Topic #18: 
+bookkeeping,full charge bookkeeping,bank deposits,supervision,technician,trial balance,office management,data entry,personal tax,administrative support,fit,cash receipts,screening,communication,peachtree
+
+Topic #19: 
+cpa,certified public accountant,mba,gaap,partnership,sec,consulting,controls,taxation,fit,sit,ea,senior management,equity,business administration
+
+Topic #20: 
+financial statements,gaap,cash flow,supervision,balance sheets,auditing,teamwork,financial data,impact,equity,health care,fit,cash management,cfo,business administration
+
+Topic #21: 
+reconciliation,account reconciliation,bank reconciliation,journal entry,reporting,human resources,reasoning,account analysis,procedure,ms excel,ssi,annual reports,life insurance,reach,honesty
+
+Topic #22: 
+management,financial management,time management,management skills,cash management,project management,senior management,property management,business management,risk management,management reporting,controls,marketing,asset management,banking
+
+Topic #23: 
+accounting principles,gaap,financial accounting,controls,audits,accounting standards,microsoft office,fasb,vouchers,contracts,accounting management,reach,financial data,financial analysis,reporting
+
+Topic #24: 
+tax returns,income tax,audits,tax law,partnership,annual reports,taxes,taxation,tax compliance,costpoint,implementation,corporate tax,ssi,reasoning,mathematical
+
+Topic #25: 
+organizational,organizational skills,time management,microsoft office,communication,professionalism,multitasking,life insurance,management skills,solid,interpersonal,database,decision making,analytical,microsoft word
+
+Topic #26: 
+fixed assets,depreciation,costpoint,asset accounting,calculations,surveillance,microsoft office,financial accounting,ada,backup,credits,capital expenditures,audits,audit schedules,fas
+
+Topic #27: 
+compliance,controls,monitoring,tax compliance,audits,act,commitment,impact,consulting,internal control,human resources,technology,business process,accountability,reporting
+
+Topic #28: 
+payments,ach,architecture,deltek,coop,banking,monitoring,annual reports,supervision,receiving,security,lockbox,tax law,credits,scheduling
+
+Topic #29: 
+budget,budgeting,monitoring,procurement,financial management,supervision,purchasing,business administration,financial data,chcs,contracts,creativity,audits,budget management,forecasts
+
+Topic #30: 
+accuracy,financial data,microsoft office,focus,calculations,management,mathematical,less,workflow,yardi,cme,professionalism,purchase orders,audits,flsa
+
+Topic #31: 
+analytical,problem solving,microsoft office,facets,communication,peoplesoft,accountability,critical thinking,fit,focus,reasoning,solid,honesty,decision making,senior management
+
+Topic #32: 
+training,supervision,auditing,recruitment,human resources,business administration,evaluation,http,act,mathematical,implementation,pass,security,technician,screening
+
+Topic #33: 
+budgets,forecasts,deltek,architecture,contracts,ssi,procedure,cfo,mathematical,cash flow,financial data,reasoning,database,cost control,monitoring
+
+Topic #34: 
+interpersonal,interpersonal skills,coop,supervision,communication,focus,commitment,sit,reach,technology,peoplesoft,eeo,management skills,ms excel,dependability
+
+Topic #35: 
+medicaid,auditing,sit,reach,claims,microsoft word,federal government,audits,medicare,utilization management,cpc,written communication,sd,supervisory management,organizational
+
+Topic #36: 
+special projects,analyzing data,marketing,project accounting,budgeting,audits,teamwork,cash management,medicare,workflow,chcs,cfo,analytical,reconciliations,retail
+
+Topic #37: 
+manufacturing,cost accounting,metrics,controls,monitoring,microsoft office,budgeting,cost analysis,erp,product costing,manufacturing operations,aerospace,product design,solid,pricing
+
+Topic #38: 
+real estate,property management,yardi,cam,mri,equity,investments,cash flow,retail,brokerage,private equity,real estate management,asset management,valuation,investment management
+
+Topic #39: 
+planning,budgeting,forecasting,financial planning,modeling,presentations,forecasts,metrics,financial modeling,consulting,strategic planning,technology,reporting,tax planning,mba
+
+Topic #40: 
+clerk,data entry,http,wholesale,great plains dynamics,pass,mathematical,safe,microsoft office,hospitality,quick learner,dynamics,cashier,time management,automotive
+
+Topic #41: 
+compensation,life insurance,public health,investigation,health insurance,creativity,eeo,professionalism,commitment,http,annual reports,c,equity,revenue recognition,presentations
+
+Topic #42: 
+filing,data entry,microsoft office,costpoint,financial accounting,tax filing,scheduling,office equipment,administrative support,positive attitude,trial balance,audits,receiving,bank deposits,sorting
+
+Topic #43: 
+organized,coop,sit,goal oriented,jd edwards,microsoft office,jd,reach,supervision,project accounting,impact,risk management,work ethic,positive attitude,multitasking
+
+Topic #44: 
+customer service,commitment,focus,productivity,pass,solid,microsoft office,banking,teamwork,collections,retail,marketing,https,backup,microsoft word
+
+Topic #45: 
+leadership,impact,accountability,strategy,technology,taxes,commitment,focus,honesty,innovation,reasoning,professional services,evaluation,business process,professional development
+
+Topic #46: 
+documentation,act,backup,security,controls,front office,internal control,technology,human resources,monitoring,financial services,frs,investigation,procedure,accounting processes
+
+Topic #47: 
+r,mathematical,ssi,procedure,reasoning,medicaid,collections,cash receipts,c,tax returns,sage,aging reports,cash flow,banking,job costing
+
+Topic #48: 
+sap,erp,oracle,jd edwards,jd,retail,implementation,hyperion,continuous improvement,project management,root,financial systems,root cause analysis,technology,treasury
+
+Topic #49: 
+microsoft excel,accountability,honesty,facets,reasoning,reach,mentorship,accounting principles,taxes,microsoft access,microsoft word,time management,adaptability,vlookup,business process
+
+Topic #50: 
+gl,backup,grant management,https,microsoft office,oracle,netsuite,reconciliations,internal control,data entry,journal entry,eis,wip,dynamics,gaap
+
