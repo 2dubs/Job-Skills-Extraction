@@ -12,9 +12,9 @@ This project depends on Tf-idf, term-document matrix, and Nonnegative Matrix Fac
 
 (source: http://mlg.postech.ac.kr/research/nmf)
 
-Each column correponds to a specifica job description (document) while each row corresponds to a skill (feature). 
+Each column corresponds to a specific job description (document) while each row corresponds to a skill (feature). 
 
-*Note: Selecting features is a very crucial step in this project, since it determines the pool from which job skill topics are formed. Discussion can be found in the next sessioin.*
+*Note: Selecting features is a very crucial step in this project, since it determines the pool from which job skill topics are formed. Discussion can be found in the next session.*
 
 
 **Next**, each cell in term-document matrix is filled with tf-idf value.
@@ -27,7 +27,7 @@ Each column correponds to a specifica job description (document) while each row 
 
 
 **Finally**, NMF is used to find two matrices W (m x k) and H (k x n) to approximate term-document matrix A, size of (m x n).  
- - m equals number of featrues (job skills)
+ - m equals number of features (job skills)
  - n equals number of documents (job descriptions)
  - k equals number of components (groups of job skills). 
  
